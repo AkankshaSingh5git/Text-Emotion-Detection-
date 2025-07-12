@@ -34,17 +34,23 @@ It includes text samples labeled with their corresponding emotions.
 
 1. Clone this repository:
 
+   
 ```bash
 git clone https://github.com/AkankshaSingh5git/Text-Emotion-Detection.git
-```bash
+
+
+
 
 
 
 ## Results
 
+```bash
+
 The model demonstrates strong performance in accurately classifying emotions from text data.  
 It can generalize well to new inputs and shows robust results across multiple emotion categories such as joy, sadness, anger, fear, love, and surprise.  
 With further tuning and larger datasets, it can be integrated into real-world applications for real-time emotion analysis and monitoring.
+
 
 
 
