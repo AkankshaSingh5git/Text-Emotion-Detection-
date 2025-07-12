@@ -35,7 +35,7 @@ It includes text samples labeled with their corresponding emotions.
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/AkankshaSingh5git/Text-Emotion-Detection.git
+git clone https://github.com/AkankshaSingh5git/Text-Emotion-Detection.git```
 
 
 
