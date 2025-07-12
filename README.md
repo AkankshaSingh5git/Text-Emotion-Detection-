@@ -35,18 +35,10 @@ It includes text samples labeled with their corresponding emotions.
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/AkankshaSingh5git/Text-Emotion-Detection.git```
+git clone https://github.com/AkankshaSingh5git/Text-Emotion-Detection.git
 
 
 
-## Results
-
-The model demonstrates strong performance in correctly classifying emotions from text data and can generalize well to new inputs.  
-With further tuning, it can be integrated into real-world applications for real-time emotion monitoring.
-
-## License
-
-This project is intended for academic and research purposes only.
 
 
 
