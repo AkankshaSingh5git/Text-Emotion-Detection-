@@ -56,7 +56,7 @@ With further tuning and larger datasets, it can be integrated into real-world ap
 
 This project work has also been published as a research paper to further demonstrate its novelty and contribution to the field of emotion analysis.
 
-[A Novel Approach to determine wellness quotient of a society] — [ICCCIS], [205].  
+A Novel Approach to determine wellness quotient of a society — ICCCIS, 2025.  
 
 
 
